@@ -1,0 +1,27 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color:rgba(252, 165, 34, 0.911); 
+    display:flex;
+    justify-content:space-between ;    
+}
+.grid{
+    background-color: rgb(226, 43, 67);
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+.footer{
+    background-color:                             rgb(143, 85, 10);
+    display:flex;
+    justify-content:flex-end;
+}
+p,h2{
+    background-color: chocolate;
+    text-align: center;
+}
